@@ -29,7 +29,7 @@ Rule-based algorithm computes stress score
 Streamlit dashboard visualizes the stress level
 
 **Repository Structure**
-/esp32-code           → ESP32 firmware (sensor reading + data upload)
+/esp32-code           → ESP32 firmware (sensor reading + data upload) 
 /dashboard            → Streamlit dashboard code
 /colab-processing     → FFT, FIR, feature extraction, stress rules
 /hardware             → Circuit diagram / block diagram
