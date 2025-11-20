@@ -112,3 +112,4 @@ while True:
         st.dataframe(df.tail(5))
 
     time.sleep(3)
+
