@@ -1,5 +1,11 @@
 **Stress Monitoring System (ESP32 + IoT Dashboard)**
 
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Hardware-ESP32-blue)
+![Python](https://img.shields.io/badge/Backend-Python%203.10-yellow)
+![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 This project is an IoT-based real-time stress monitoring system built using ESP32, MAX30102, GSR v2.0, and DS18B20 sensors. 
 The collected physiological signals (Heart Rate, SpO₂, Skin Conductance, Temperature) are logged to Google Sheets, processed in Google Colab, and visualized on a Streamlit dashboard.
 The system performs FFT, FIR filtering, feature extraction (peak frequency, normalized values), and rule-based classification using weighted scores from HR, Temperature, and GSR to determine stress levels.
