@@ -26,7 +26,7 @@ The project demonstrates the integration of embedded systems, IoT communication,
 ## System Workflow
 
 <p align="center">
-<img src="images/workflow.png" width="900">
+<img src="images/workflow_diagram.png" width="900">
 </p>
 
 ---
@@ -34,7 +34,7 @@ The project demonstrates the integration of embedded systems, IoT communication,
 ## System Architecture
 
 <p align="center">
-<img src="images/architecture.png" width="900">
+<img src="images/system_architecture.png" width="900">
 </p>
 
 ---
@@ -42,7 +42,7 @@ The project demonstrates the integration of embedded systems, IoT communication,
 ## Hardware Setup
 
 <p align="center">
-<img src="images/hardware_setup.jpg" width="700">
+<img src="images/hardware_setup.png" width="700">
 </p>
 
 ---
