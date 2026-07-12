@@ -133,10 +133,7 @@ The collected physiological signals are normalized and combined using a weighted
 The Stress Index is computed as:
 
 ```
-Stress Index =
-0.4 × GSR +
-0.4 × Heart Rate +
-0.2 × Temperature
+Stress Index = 0.4 × GSR + 0.4 × Heart Rate + 0.2 × Temperature
 ```
 
 The resulting score is categorized into three levels:
